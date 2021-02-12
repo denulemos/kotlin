@@ -1,11 +1,16 @@
 # Kotlin
 
+Kotlin es un lenguaje moderno, se puede usar en cualquier lugar donde Java se usa actualmente, en desarrollo back-end, aplicaciones Android, etc..
+
+* No requiere puntos y comas para finalizar instrucciones
+* Soporta **type inference**, es decir, declara el tipo de dato por su valor.
+
 ### Porque pasar de Java a Kotlin?
 
 * Es un lenguaje moderno, fue creado usando caracteristicas de Phyton o Swift, con tecnicas y sintaxis mas moderna y simple. Tambien poseen mas soporte.
 * Posee un estilo de programacion mucho mas sencillo. Nos ahorramos mucho codigo que esta de más en Java.
 * Elimina el `null pointer exception` que existe en Java. La idea es que no hayan huecos en la aplicacion, como variables sin inicializar.
-* Kotlin tiene soporte por Google, y se actualiza seguido.
+* Kotlin tiene soporte por Google, y se actualiza seguido. Google anuncio que todo desarrollo para Android será Kotlin-First.
 
 ## Android
 

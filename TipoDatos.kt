@@ -1,5 +1,4 @@
 /*Tipos de Datos:
- *Tipos Numericos Bit ancho
  Double              64
  Float               32
  Long                64
@@ -14,4 +13,5 @@ fun main (args: Array<String>){
     var numero:Int = 18 // Asignacion explicita
     var numeroIm = 18.0 // Asignacion implicita
     var numeroFloatEx:Float = 18.2F
+    println("A \nB \nC") // Saltos de linea 
 }
